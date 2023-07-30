@@ -14,3 +14,13 @@ The contract uses the finalizeProposal function to determine the outcome of a pr
 The contract owner can set the voting period and the minimum votes required for a proposal to pass using the setVotingPeriod and setMinVotesRequired functions, respectively.
 
 Please note that this is a simplified version, and a real-world Decentralized Autonomous Organization (DAO) would require additional features, such as role-based access control, more sophisticated voting mechanisms (e.g., quadratic voting), and fund management logic based on approved proposals. Additionally, ensure you handle sensitive data and access control carefully to protect the governance process. Always conduct thorough testing and ensure security before deploying smart contracts in a production environment.
+
+Interact with the Smart Contract:
+
+Once the contract is deployed, you can interact with it using the provided functions. In Remix, go to the "Deployed Contracts" section to see the deployed contract. You can expand the contract and use the available functions to create proposals, vote on proposals, and finalize proposals.
+Customize Parameters:
+
+During contract deployment, you can customize the votingPeriod and minVotesRequired parameters according to your DAO's specific requirements.
+Test the Smart Contract:
+
+Thoroughly test the smart contract to ensure that proposal submission, voting, and fund management functionalities work as intended. In Remix, you can use the "Solidity Unit Testing" tab to write and run tests.
