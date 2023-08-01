@@ -15,7 +15,7 @@ The contract owner can set the voting period and the minimum votes required for 
 
 Please note that this is a simplified version, and a real-world Decentralized Autonomous Organization (DAO) would require additional features, such as role-based access control, more sophisticated voting mechanisms (e.g., quadratic voting), and fund management logic based on approved proposals. Additionally, ensure you handle sensitive data and access control carefully to protect the governance process. Always conduct thorough testing and ensure security before deploying smart contracts in a production environment.
 
-Interact with the Smart Contract:
+__Interact with the Smart Contract:__
 
 Once the contract is deployed, you can interact with it using the provided functions. In Remix, go to the "Deployed Contracts" section to see the deployed contract. You can expand the contract and use the available functions to create proposals, vote on proposals, and finalize proposals.
 Customize Parameters:
