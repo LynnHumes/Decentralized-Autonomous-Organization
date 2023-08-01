@@ -1,7 +1,7 @@
 # Decentralized-Autonomous-Organization
 DAO where stakeholders can vote on proposals, and the organization's governance and decision-making processes are entirely decentralized.
 
-Explanation:
+__Explanation:__
 
 The contract defines a Proposal struct to store information about each proposal, including its unique proposal ID, proposer's address, description, creation time, votes for, votes against, status, and a mapping to track whether an address has voted.
 
