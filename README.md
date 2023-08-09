@@ -13,7 +13,7 @@ The contract uses the finalizeProposal function to determine the outcome of a pr
 
 The contract owner can set the voting period and the minimum votes required for a proposal to pass using the setVotingPeriod and setMinVotesRequired functions, respectively.
 
-Please note that this is a simplified version, and a real-world Decentralized Autonomous Organization (DAO) would require additional features, such as role-based access control, more sophisticated voting mechanisms (e.g., quadratic voting), and fund management logic based on approved proposals. Additionally, ensure you handle sensitive data and access control carefully to protect the governance process. Always conduct thorough testing and ensure security before deploying smart contracts in a production environment.
+__Note:__Please note that this is a simplified version, and a real-world Decentralized Autonomous Organization (DAO) would require additional features, such as role-based access control, more sophisticated voting mechanisms (e.g., quadratic voting), and fund management logic based on approved proposals. Additionally, ensure you handle sensitive data and access control carefully to protect the governance process. Always conduct thorough testing and ensure security before deploying smart contracts in a production environment.
 
 __Interact with the Smart Contract:__
 
