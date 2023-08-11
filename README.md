@@ -14,7 +14,8 @@ __Note:__Please note that this is a simplified version, and a real-world Decentr
 
 __Interact with the Smart Contract:__
 
-Once the contract is deployed, you can interact with it using the provided functions. In Remix, go to the "Deployed Contracts" section to see the deployed contract. You can expand the contract and use the available functions to create proposals, vote on proposals, and finalize proposals.
+ - Once the contract is deployed, you can interact with it using the provided functions. In Remix, go to the "Deployed Contracts" section to see the deployed contract. You can expand the contract and use the available functions to create proposals, vote on proposals, and finalize proposals.
+   
 Customize Parameters:
 
 During contract deployment, you can customize the votingPeriod and minVotesRequired parameters according to your DAO's specific requirements.
