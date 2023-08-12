@@ -18,7 +18,8 @@ __Interact with the Smart Contract:__
    
 __Customize Parameters:__
 
-During contract deployment, you can customize the votingPeriod and minVotesRequired parameters according to your DAO's specific requirements.
+ - During contract deployment, you can customize the votingPeriod and minVotesRequired parameters according to your DAO's specific requirements.
+   
 Test the Smart Contract:
 
 Thoroughly test the smart contract to ensure that proposal submission, voting, and fund management functionalities work as intended. In Remix, you can use the "Solidity Unit Testing" tab to write and run tests.
